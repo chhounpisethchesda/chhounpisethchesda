@@ -5,11 +5,7 @@ Hi, I'm Chhoun Pisethchesda 👋
 - Data Engineering
 - Machine Learning
 - LLM Applications
-
-Currently working on:
-- AI-powered trade assistant
-- Computer vision systems
-- Data-driven applications
+- Data Analysis
 
 # 💻 Tech Stack
 
